@@ -10,6 +10,9 @@ import java.util.List;
  * @date 2016年12月20日 上午12:02:55
  */
 public class TableEntity {
+	
+	
+	
 	//表的名称
 	private String tableName;
 	//表的备注
