@@ -13,6 +13,8 @@ public class TableEntity {
 	
 	
 	
+	
+	
 	//表的名称
 	private String tableName;
 	//表的备注
